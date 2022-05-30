@@ -1,4 +1,5 @@
 /* Basic Style */
+
 body {
   background-color: #f8f8f8;
   color: #333;
@@ -24,6 +25,7 @@ body {
   .aaa { text-align: center;
   }
 }
+
 .centered-main-page-element {
   display: block;
   width: 500px;
